@@ -66,9 +66,19 @@ Pronunciation Coach is designed as a lightweight Windows desktop tool. Core spee
 
 ## Download
 
-For the latest Windows version, screenshots and product information:
+### Recommended download
 
-👉 **[Pronunciation Coach official page](https://getlinguapilot.com/free-tools/pronunciation-coach/)**
+For the latest Windows version, screenshots, features and product information:
+
+👉 **[Download Pronunciation Coach Free from the official page](https://getlinguapilot.com/free-tools/pronunciation-coach/)**
+
+### GitHub release mirror
+
+The current Windows release is also available on GitHub:
+
+👉 **[Pronunciation Coach v0.6.8 for Windows](https://github.com/dany8383/Pronunciation-Coach-Windows/releases/tag/v0.6.8)**
+
+> Note: GitHub automatically provides "Source code" archives for this repository. These archives contain the public repository files only; the Pronunciation Coach application source code is not included.
 
 ## Part of the LinguaPilot AI software suite
 
